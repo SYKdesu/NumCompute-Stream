@@ -13,7 +13,7 @@ Requires Python 3.10 or newer. NumPy and matplotlib are the runtime dependencies
 Run from the repository root:
 
     python -m venv .venv
-    .\.venv\Scripts\python.exe -m pip install -e ".[dev,demo]"
+    .\.venv\Scripts\python.exe -m pip install numpy matplotlib pytest jupyterlab ipykernel
     .\.venv\Scripts\python.exe -m ipykernel install --sys-prefix --name numcompute-stream --display-name "Python (NumCompute Stream)"
 
 If .venv already exists, use it without recreating it. On macOS/Linux, replace .\.venv\Scripts\python.exe with .venv/bin/python.
