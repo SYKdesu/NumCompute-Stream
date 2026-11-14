@@ -1,8 +1,10 @@
 # NumCompute-Stream
 
+I own the original group repository on GitHub, so I could not fork it under the same account. I created this separate repository for my individual Assignment 2.2 submission. [Original group repository](https://github.com/SYKdesu/NumCompute)
+
 A modular classification framework built with Python, NumPy and matplotlib. It extends the original NumCompute group package with a decision tree written from scratch, chunk-wise preprocessing, buffered retraining, streaming statistics, classification metrics, and reusable plots.
 
-The original package remains available as numcompute. The individual assignment is on the assignment-2.2 branch. The original group project is available at https://github.com/SYKdesu/NumCompute.
+The original package remains available as numcompute. The individual assignment is on the assignment-2.2 branch.
 
 ## Setup
 
